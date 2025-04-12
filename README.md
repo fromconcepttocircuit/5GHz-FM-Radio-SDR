@@ -95,6 +95,10 @@ MIT License. See the LICENSE file for more details.
 ## 🔗 Connect
 
 - **YouTube Channel**: [From Concept To Circuit](https://www.youtube.com/@fromconcepttocircuit)
+
+### ☕ Support My Work  
+If you find this project helpful, consider supporting me:  
+[Buy Me a Coffee](https://buymeacoffee.com/concepttoco)
 - **GitHub**: [https://github.com/fromconcepttocircuit](https://github.com/fromconcepttocircuit)
 - More RF & SDR projects coming soon!
 
