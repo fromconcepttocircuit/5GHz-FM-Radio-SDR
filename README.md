@@ -6,8 +6,7 @@ This repository provides a complete Python-based implementation of an FM transmi
 ## 📡 See It In Action (Video Demo)
 
 🎬 **Watch the full video demo and tutorial on YouTube**:  
-👉 https://youtu.be/TpBiCjSYmqY
-
+[![Watch the video](https://img.youtube.com/vi/TpBiCjSYmqY/0.jpg)](https://www.youtube.com/watch?v=TpBiCjSYmqY)
 
 ## Features
 
