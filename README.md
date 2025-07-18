@@ -80,9 +80,7 @@ python fm_radio_5ghz.py
 - Start/stop audio recording using provided buttons.
 - Spectrum analyzer displays the audio spectrum in real-time.
 
-### ☕ Support My Work  
-If you find this project helpful, consider supporting me:  
-[Buy Me a Coffee](https://buymeacoffee.com/concepttoco)
+
 
 ## Notes
 - Replace the provided audio file (`Night Falls - Everet Almond.mp3`) with your preferred audio track for customized transmissions.
